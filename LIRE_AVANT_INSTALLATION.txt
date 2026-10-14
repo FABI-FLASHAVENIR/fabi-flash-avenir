@@ -1,0 +1,9 @@
+FABI FLASH AVENIR - version web installable (PWA)
+
+1. Décompresser le ZIP.
+2. Mettre tout le contenu du dossier sur un hébergement HTTPS (ex. GitHub Pages ou Netlify).
+3. Ouvrir le lien HTTPS dans Chrome sur Android, puis menu > Installer l’application (si proposé).
+
+IMPORTANT : ouvrir index.html directement depuis les fichiers du téléphone permet un aperçu, mais ne permet pas une véritable installation PWA avec service worker.
+Cette archive n’est PAS un APK ni un fichier AAB pour Google Play.
+Avant publication : tester l’interface, vérifier les textes et les coordonnées, et préparer les informations légales et la confidentialité.
